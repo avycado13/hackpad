@@ -1,6 +1,8 @@
 # hackpad
 my hackpad that i can use for various controls
 
+![PCB Image](./image.webp)
+
 ## Features
 - 15 buttons in a 3x5 matrix
 - 3 rotary encoders for controls like volume and numeric input
